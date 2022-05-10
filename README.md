@@ -1,7 +1,7 @@
 ## Tile-based Arcade Puzzle Game 
 #### *arcade tile-based puzzle game made in Java for my highschool's capstone project.* 
 ---
-
+*note that this is just the archived version*
 
 ### Preview:
 
