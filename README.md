@@ -1,11 +1,15 @@
 ### Tile-based Arcade Puzzle Game 
+##### *arcade tile-based puzzle game made in Java for my highschool's capstone project.* 
+---
 
-arcade tile-based puzzle game made in Java for my highschool's capstone project. 
 
-[Development Video Log](https://www.youtube.com/watch?v=1aOVbxQRisI&feature=youtu.be)
+#### Preview:
+[*Development Video Log*](https://www.youtube.com/watch?v=1aOVbxQRisI&feature=youtu.be)
 
+![preview](https://github.com/enviio/hs-capstone-tilegame/blob/master/preview.gif)
 
 ---
-### Resources:
+#### Resources:
 
-Assets from [16x16 DungeonTileSet II by 0x72](https://0x72.itch.io/dungeontileset-ii)
+- Assets from [*16x16 DungeonTileSet II by 0x72*](https://0x72.itch.io/dungeontileset-ii)
+- Font : *Re do Regular* 
