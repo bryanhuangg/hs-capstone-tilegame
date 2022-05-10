@@ -1,4 +1,5 @@
-## hs-capstone-tilegame
+### Tile-based Arcade Puzzle Game 
+
 arcade tile-based puzzle game made in Java for my highschool's capstone project. 
 
 [Development Video Log](https://www.youtube.com/watch?v=1aOVbxQRisI&feature=youtu.be)
