@@ -5,13 +5,12 @@
 
 ### Preview:
 
-[*Development Video Log*](https://www.youtube.com/watch?v=1aOVbxQRisI&feature=youtu.be)
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1aOVbxQRisI/0.jpg)](https://www.youtube.com/watch?v=1aOVbxQRisI)
-
 <p align="left">
   <img src="https://github.com/enviio/hs-capstone-tilegame/blob/master/preview.gif" width="350" title="preview">
 </p>
+
+You can watch the development log for this game [here](https://www.youtube.com/watch?v=1aOVbxQRisI&feature=youtu.be)
+
 
 ---
 ### Resources:
